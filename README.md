@@ -1,5 +1,6 @@
 # Deep Learning - Detectando Faces em Videos
 
+#### Colaboradores: Daniel Queiroz e Rafael Buchacra
 
 ## Atividade Avaliativa
 

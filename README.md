@@ -19,11 +19,17 @@
     ![Anaconda Prompt Windows](https://i.imgur.com/aYMQdrx.png)
     
     E execute o seguinte codigo:
+    
     ```conda create -n image-detection anaconda```
+    
     Após a conclusão do processo execute o proximo comando:
+    
     ```conda activate image-detection```
+    
     E em seguida instale o OpenCV:
+    
     ```conda install opencv```
+    
 
 ### 2. Aplicação
 

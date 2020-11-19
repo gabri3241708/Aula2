@@ -17,12 +17,13 @@
     Após a instalação do **python** e do **anaconda** é preciso rodar os seguintes codigos no anaconda prompt.
     
     ![Anaconda Prompt Windows](https://i.imgur.com/aYMQdrx.png)
+    
     E execute o seguinte codigo:
-    `conda create -n image-detection anaconda`
+    ```conda create -n image-detection anaconda```
     Após a conclusão do processo execute o proximo comando:
-    `conda activate image-detection`
+    ```conda activate image-detection```
     E em seguida instale o OpenCV:
-    `conda install opencv`
+    ```conda install opencv```
 
 ### 2. Aplicação
 
